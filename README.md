@@ -19,6 +19,6 @@ $ cd algotrading_momentum_strategy
 - perform one-sided t-test to see if null hypothesis (mean return is zero) can be rejected
 
 ## Results
-Mean Daily Return: 0.003253
-Standard Error: 0.002203
+Mean Daily Return: 0.0032
+Standard Error: 0.0022
 Annualized Rate of Return: 3.98%
